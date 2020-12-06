@@ -1,0 +1,1 @@
+print("Gardul are lungimea de", (2*9)+(2*((48//4)**2)//9), "metri.")
